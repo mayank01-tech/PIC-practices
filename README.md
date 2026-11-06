@@ -28,9 +28,9 @@ The goal is to build a strong foundation in programming fundamentals and underst
 
 ## 📚 Topics Covered
 
-- [ -] Introduction to C
-- [ -] Variables and Data Types
-- [- ] Input and Output
+- [x] Introduction to C
+- [x] Variables and Data Types
+- [x] Input and Output
 - [ ] Operators and Expressions
 - [ ] Conditional Statements
 - [ ] Loops
