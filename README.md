@@ -31,7 +31,7 @@ The goal is to build a strong foundation in programming fundamentals and underst
 - [x] Introduction to C
 - [x] Variables and Data Types
 - [x] Input and Output
-- [ ] Operators and Expressions
+- [x] Operators and Expressions
 - [ ] Conditional Statements
 - [ ] Loops
 - [ ] Functions
