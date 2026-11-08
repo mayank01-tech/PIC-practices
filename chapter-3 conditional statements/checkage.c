@@ -5,9 +5,9 @@ int main () {
     printf("enter the age of person to check he/she adult or not : ");
     scanf("%d",&age);
     if(age>=18){
-        printf("person is adult..");
-        printf("person can vote..");
-        printf("person can drive..");
+        printf("person is adult..\n");
+        printf("person can vote..\n");
+        printf("person can drive..\n");
     }
     else{
         printf("person is not adult..");
