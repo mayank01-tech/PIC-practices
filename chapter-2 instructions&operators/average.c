@@ -1,4 +1,4 @@
-// in this program we will find avverage of 3 numbers //
+// in this program we will find avverage of 3 numbers. //
 #include <stdio.h>
 int main () {
     int a,b,c;
