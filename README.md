@@ -33,7 +33,7 @@ The goal is to build a strong foundation in programming fundamentals and underst
 - [x] Input and Output
 - [x] Operators and Expressions
 - [x] Conditional Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] Arrays and Strings
 - [ ] Pointers
