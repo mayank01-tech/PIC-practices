@@ -1,5 +1,4 @@
 # 💻 PIC – Programming in C
-
 **A collection of C programming exercises, concepts, and practical implementations.**
 
 Welcome to my PIC (Programming in C) practice repository! This repository documents my journey of learning the C programming language through hands-on coding, experimentation, and problem-solving.
