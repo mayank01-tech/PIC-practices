@@ -34,8 +34,8 @@ The goal is to build a strong foundation in programming fundamentals and underst
 - [x] Conditional Statements
 - [x] Loops
 - [x] Functions
+- [x] Pointers
 - [ ] Arrays and Strings
-- [ ] Pointers
 - [ ] Structures and Unions
 - [ ] File Handling
 - [ ] Dynamic Memory Allocation
