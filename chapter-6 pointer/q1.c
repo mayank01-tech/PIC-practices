@@ -1,4 +1,4 @@
-// in  this program we are solving a question //
+// in  this program we are solving a question. //
 #include<stdio.h>
 int main () {
     int x;
