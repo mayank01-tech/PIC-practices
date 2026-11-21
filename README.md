@@ -36,7 +36,7 @@ The goal is to build a strong foundation in programming fundamentals and underst
 - [x] Functions
 - [x] Pointers
 - [x] Arrays 
-- [ ] Strings
+- [x] Strings
 - [ ] Structures and Unions
 - [ ] File Handling
 - [ ] Dynamic Memory Allocation
