@@ -1,4 +1,4 @@
-// in this program we will use structures which are the user defined data type //
+// in this program we will use structures which are the user defined data type. //
 #include<stdio.h>
 #include<string.h>
 // Structure to store student details//
