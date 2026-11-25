@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 // Structure to store student details//
-struct student {
+struct student{
     int roll_no;
     float cgpa;
     char name[100];
