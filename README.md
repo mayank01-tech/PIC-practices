@@ -38,7 +38,7 @@ The goal is to build a strong foundation in programming fundamentals and underst
 - [x] Arrays 
 - [x] Strings
 - [x] Structures and Unions
-- [ ] File Handling
+- [x] File Handling
 - [ ] Dynamic Memory Allocation
 
 *Topics will be updated as I progress through the learning journey.*
